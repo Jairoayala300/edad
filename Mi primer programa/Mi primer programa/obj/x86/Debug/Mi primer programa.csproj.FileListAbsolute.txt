@@ -1,0 +1,24 @@
+c:\users\suyen\documents\visual studio 2010\Projects\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.exe
+c:\users\suyen\documents\visual studio 2010\Projects\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.pdb
+c:\users\suyen\documents\visual studio 2010\Projects\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi_primer_programa.Frmpersona.resources
+c:\users\suyen\documents\visual studio 2010\Projects\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi_primer_programa.Properties.Resources.resources
+c:\users\suyen\documents\visual studio 2010\Projects\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.csproj.GenerateResource.Cache
+c:\users\suyen\documents\visual studio 2010\Projects\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.exe
+c:\users\suyen\documents\visual studio 2010\Projects\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.pdb
+I:\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.exe
+I:\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.pdb
+I:\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.exe
+I:\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.pdb
+I:\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi_primer_programa.Frmpersona.resources
+I:\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi_primer_programa.Properties.Resources.resources
+I:\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.csproj.GenerateResource.Cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.exe.config
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.pdb
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.csproj.AssemblyReference.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi_primer_programa.Frmpersona.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi_primer_programa.Properties.Resources.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.csproj.GenerateResource.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Mi primer programa\Mi primer programa\obj\x86\Debug\Mi primer programa.pdb
